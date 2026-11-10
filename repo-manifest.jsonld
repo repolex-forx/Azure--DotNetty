@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Azure/DotNetty/commit/379d8cc1d32d2b557347aad1f7b6c48656212a4b",
       "git:hexsha": "379d8cc1d32d2b557347aad1f7b6c48656212a4b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:57:50.581455+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Azure/DotNetty/commit/e19221e9776aff1e9e16acadc074cf084550ac25",
